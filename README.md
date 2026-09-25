@@ -18,6 +18,14 @@
 <img src="https://img.shields.io/badge/QPDF-PDF%20Decryption-E87500?style=flat-square" />
 
 <br><br>
+<!-- ===================== TYPING SVG ========================= -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=PDF+Security+Auditing;John+the+Ripper;Password+Hash+Analysis;Dictionary+Based+Password+Auditing;Kali+Linux+Security+Lab;QPDF+Document+Decryption;Cybersecurity+Practical;Ethical+Hacking"
+    alt="Cybersecurity PDF password auditing and ethical hacking"
+  />
+</p>
 
 **W3-PDF-PASSWORD-LAB | CYBERSECURITY | NETWORKWALKS**
 
@@ -26,6 +34,7 @@
 **Cybersecurity Professional | Networkwalks Intern | Batch B083**
 
 </div>
+<img width="1690" height="913" alt="1-screenshot" src="https://github.com/user-attachments/assets/81ca1b17-4781-48e3-a89c-e5c0c457e708" />
 
 ---
 
@@ -639,21 +648,18 @@ scope**.
 
 ------------------------------------------------------------------------
 
-# 👤 16. Author
+## 16 👤 Author
 
+**Danjuma Yusuf Joseph (XorShield)**
 
-### **Danjuma Yusuf Joseph**
+Cybersecurity Professional `B082`
 
-**Cybersecurity Professional \| Networkwalks Intern \| Batch B083**
+LinkedIn: https://www.linkedin.com/in/xorshield/
 
+## 📌 Project Information
 
+**Program Name:** XorShield Home Lab | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
 
-🛡️ Cybersecurity\
-🔐 Ethical Hacking\
-🌐 Network Security\
-🔎 Reconnaissance\
-🐉 Kali Linux\
-📚 Continuous Learning
 
 
 ------------------------------------------------------------------------
